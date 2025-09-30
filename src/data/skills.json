@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/Mysql.jpg"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java.jpg"
+  },
+  {
+    "title": "Hibernate",
+    "imageSrc": "skills/Hibernate.jpg"
+  },
+  {
+    "title": "Spring",
+    "imageSrc": "skills/Spring.jpg"
+  }
+]

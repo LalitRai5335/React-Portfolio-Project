@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/Portfolio.jpg",
+    "description": "A personal portfolio showcasing projects, skills, certifications, and experiences in Java Full Stack Development. Designed with a modern interface to highlight creativity, technical expertise, and professional growth journey.",
+    "skills": ["Html","Css","JavaScript","React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Chatting Application",
+    "imageSrc": "projects/ChatApp.jpg",
+    "description": "A real-time Java-based chat application with client-server architecture, WhatsApp-style interface, icon-based buttons, message panels, and file sharing features, enabling seamless communication over local network or internet.",
+    "skills": ["Java","Swing","Socket Programming"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Hospital Management",
+    "imageSrc": "projects/HMS.jpg",
+    "description": "Developed a comprehensive Hospital Management System (HMS) designed to streamline hospital operations, improve patient care, and enhance administrative efficiency. The system integrates key modules like patient registration, appointment scheduling, doctor management.",
+    "skills": ["Java","Hibernate","Springboot"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
